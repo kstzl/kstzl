@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kstzl</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on [K3Engine](https://github.com/kstzl/K3Engine) and some Node.JS projects
+- 🔭 I’m currently working on [Onirique](https://github.com/kstzl/OniriquePy)
 
 - 💬 Ask me about **Python**
 
