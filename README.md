@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning Rust
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Javascript**, **TypeScript**, **Python**, **Unreal Engine**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kstzl&show_icons=true&locale=en" alt="kstzl" /></p>
 
