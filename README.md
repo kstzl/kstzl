@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin STZL</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 💬 Ask me about **C++**, **Python*, **Rust** and **Unreal Engine**.
+- 💬 Ask me about **C++**, **Python**, **Rust** and **Unreal Engine**.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kstzl&show_icons=true&locale=en" alt="kstzl" /></p>
 
